@@ -1,1 +1,1 @@
-# ubunt
+# uubuntu
